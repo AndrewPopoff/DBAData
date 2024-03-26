@@ -1,0 +1,2 @@
+# DBAData
+DDL trigger
